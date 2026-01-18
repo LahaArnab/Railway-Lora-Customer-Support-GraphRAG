@@ -295,16 +295,13 @@ python visualize_architecture.py
 
 # Video Demo
 
-[Watch Here](https://drive.google.com/file/d/1ulwc0DUaM8Z9L46zEJKMpwRaUGtYhEkg/view?usp=sharing"Comprehensive guides and tutorials")
-
----
-https://drive.google.com/file/d/1ulwc0DUaM8Z9L46zEJKMpwRaUGtYhEkg/view?usp=sharing
----
+[Watch Here: Comprehensive guides and tutorials](https://drive.google.com/file/d/1ulwc0DUaM8Z9L46zEJKMpwRaUGtYhEkg/view?usp=sharing)
 
 **Start using it NOW!**
 
 ```bash
 streamlit run streamlit_customer_care_app.py
 ```
+
 
 
